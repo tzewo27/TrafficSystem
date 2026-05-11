@@ -1,0 +1,17 @@
+[2026-05-09 15:14:06] [ERROR-SERVER] Server crashed: Address already in use: bind
+[2026-05-09 19:03:21] [ERROR-SERVER] Server crashed: Address already in use: bind
+[2026-05-09 19:43:05] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-09 19:50:19] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-09 19:50:19] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-09 19:55:06] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-09 19:55:06] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-09 20:48:08] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-09 20:48:08] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-09 20:54:37] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-09 20:54:37] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-10 00:34:19] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-10 00:34:19] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-10 00:42:22] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-10 00:42:22] [ERROR-SERVER] Crashed: Address already in use: bind
+[2026-05-10 00:49:20] [ERROR-WEB] Web server error: Address already in use: bind
+[2026-05-10 00:49:20] [ERROR-SERVER] Crashed: Address already in use: bind
